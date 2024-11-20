@@ -1,0 +1,52 @@
+[
+  {
+    "question": "1) Which of the following is not a valid C data type?",
+    "options": ["a) int", "b) float", "c) real", "d) char"],
+    "answer": "c) real"
+  },
+  {
+    "question": "2) Which operator is used to access the value at the address stored in a pointer?",
+    "options": ["a) *", "b) &", "c) ->", "d) ."],
+    "answer": "a) *"
+  },
+  {
+    "question": "3) What is the output of printf(\"%d\", sizeof(int)); on a 64-bit machine?",
+    "options": ["a) 2", "b) 4", "c) 8", "d) Depends on compiler"],
+    "answer": "b) 4"
+  },
+  {
+    "question": "4) What is the time complexity of accessing an array element?",
+    "options": ["a) O(1)", "b) O(n)", "c) O(log n)", "d) O(n^2)"],
+    "answer": "a) O(1)"
+  },
+  {
+    "question": "5) Which function is used to read a single character from the user in C?",
+    "options": ["a) scanf", "b) fgets", "c) getchar", "d) gets"],
+    "answer": "c) getchar"
+  },
+  {
+    "question": "6) Which library function is used to allocate memory dynamically in C?",
+    "options": ["a) malloc", "b) alloc", "c) memalloc", "d) memcpy"],
+    "answer": "a) malloc"
+  },
+  {
+    "question": "7) Which header file is required to use the printf function?",
+    "options": ["a) <stdio.h>", "b) <stdlib.h>", "c) <conio.h>", "d) <string.h>"],
+    "answer": "a) <stdio.h>"
+  },
+  {
+    "question": "8) How is a comment written in C?",
+    "options": ["a) // This is a comment", "b) # This is a comment", "c) -- This is a comment", "d) /* This is a comment */"],
+    "answer": "d) /* This is a comment */"
+  },
+  {
+    "question": "9) What is the output of 'printf(\"%d\", 5/2);'?",
+    "options": ["a) 2", "b) 2.5", "c) 5", "d) Compilation error"],
+    "answer": "a) 2"
+  },
+  {
+    "question": "10) Which loop is guaranteed to execute at least once?",
+    "options": ["a) for", "b) while", "c) do-while", "d) None of the above"],
+    "answer": "c) do-while"
+  }
+]

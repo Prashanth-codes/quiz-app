@@ -1,0 +1,52 @@
+[
+  {
+    "question": "1) Which method is used to start a thread in Java?",
+    "options": ["a) run()", "b) start()", "c) execute()", "d) init()"],
+    "answer": "b) start()"
+  },
+  {
+    "question": "2) What is the parent class of all classes in Java?",
+    "options": ["a) Object", "b) Class", "c) BaseClass", "d) None of the above"],
+    "answer": "a) Object"
+  },
+  {
+    "question": "3) Which Java keyword is used to prevent inheritance?",
+    "options": ["a) static", "b) final", "c) const", "d) immutable"],
+    "answer": "b) final"
+  },
+  {
+    "question": "4) What is the size of a char in Java?",
+    "options": ["a) 1 byte", "b) 2 bytes", "c) 4 bytes", "d) Depends on compiler"],
+    "answer": "b) 2 bytes"
+  },
+  {
+    "question": "5) Which exception is thrown when dividing by zero in Java?",
+    "options": ["a) IOException", "b) ArithmeticException", "c) NullPointerException", "d) IndexOutOfBoundsException"],
+    "answer": "b) ArithmeticException"
+  },
+  {
+    "question": "6) Which of these access modifiers makes a member visible only within its own package?",
+    "options": ["a) private", "b) protected", "c) default", "d) public"],
+    "answer": "c) default"
+  },
+  {
+    "question": "7) What is the output of 'System.out.println(10 + \"20\");'?",
+    "options": ["a) 30", "b) 1020", "c) Error", "d) None of the above"],
+    "answer": "b) 1020"
+  },
+  {
+    "question": "8) Which interface must be implemented to create a thread?",
+    "options": ["a) Runnable", "b) Threadable", "c) Callable", "d) Executor"],
+    "answer": "a) Runnable"
+  },
+  {
+    "question": "9) Which method in Java is used to get the length of a string?",
+    "options": ["a) size()", "b) length()", "c) getSize()", "d) None of the above"],
+    "answer": "b) length()"
+  },
+  {
+    "question": "10) Which of these is a marker interface in Java?",
+    "options": ["a) Serializable", "b) Cloneable", "c) Both A and B", "d) None of the above"],
+    "answer": "c) Both A and B"
+  }
+]

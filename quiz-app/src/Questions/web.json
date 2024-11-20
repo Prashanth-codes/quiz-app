@@ -1,0 +1,67 @@
+[
+  {
+    "question": "1) Which tag is used to link an external JavaScript file in HTML?",
+    "options": ["a) <script>", "b) <js>", "c) <link>", "d) <javascript>"],
+    "answer": "a) <script>"
+  },
+  {
+    "question": "2) What is the default position of elements in CSS?",
+    "options": ["a) relative", "b) absolute", "c) static", "d) fixed"],
+    "answer": "c) static"
+  },
+  {
+    "question": "3) Which property is used in CSS to change the background color of an element?",
+    "options": ["a) color", "b) background-color", "c) bgcolor", "d) background"],
+    "answer": "b) background-color"
+  },
+  {
+    "question": "4) What does the <meta> tag provide in HTML?",
+    "options": [
+      "a) Defines metadata about an HTML document",
+      "b) Links external stylesheets",
+      "c) Adds comments",
+      "d) Displays images"
+    ],
+    "answer": "a) Defines metadata about an HTML document"
+  },
+  {
+    "question": "5) Which JavaScript method is used to convert a JSON string into a JavaScript object?",
+    "options": ["a) JSON.parse()", "b) JSON.stringify()", "c) JSON.convert()", "d) JSON.objectify()"],
+    "answer": "a) JSON.parse()"
+  },
+  {
+    "question": "6) What is the primary purpose of the <form> tag in HTML?",
+    "options": [
+      "a) To link stylesheets",
+      "b) To create a table",
+      "c) To collect user input",
+      "d) To display media"
+    ],
+    "answer": "c) To collect user input"
+  },
+  {
+    "question": "7) Which CSS property is used to control the space between lines of text?",
+    "options": ["a) spacing", "b) line-spacing", "c) line-height", "d) text-spacing"],
+    "answer": "c) line-height"
+  },
+  {
+    "question": "8) What does the async attribute in the <script> tag do?",
+    "options": [
+      "a) Loads the script after the page is fully loaded",
+      "b) Loads the script while parsing the HTML",
+      "c) Loads the script only if needed",
+      "d) None of the above"
+    ],
+    "answer": "b) Loads the script while parsing the HTML"
+  },
+  {
+    "question": "9) Which HTML element is used to define navigation links?",
+    "options": ["a) <nav>", "b) <menu>", "c) <navigation>", "d) <ul>"],
+    "answer": "a) <nav>"
+  },
+  {
+    "question": "10) Which protocol is used to securely transfer data between a browser and a server?",
+    "options": ["a) HTTP", "b) HTTPS", "c) FTP", "d) TCP"],
+    "answer": "b) HTTPS"
+  }
+]

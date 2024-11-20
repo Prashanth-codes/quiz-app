@@ -1,0 +1,150 @@
+*{
+  background-color: rgb(241, 244, 241);
+}
+.quiz-container {
+  width: 60%;
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(241, 244, 241);
+}
+.title{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.timer{
+  display: flex;
+  align-items: end;
+  justify-content: end;
+}
+.timer .time{
+  background-color: #0056b3;
+  border-radius: 20px 20px 20px 20px;
+  padding: 10px 20px;
+  color: white;
+}
+.timer .notime{
+  background-color: rgba(229, 72, 72, 0.785);
+  color: white;
+  border-radius: 10px;
+  padding: 4px;
+}
+.quiz-title {
+  text-align: center;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.question-container {
+  margin-bottom: 20px;
+}
+
+.question {
+  font-size: 1.2rem;
+  color: #555;
+  width: 600px;
+}
+
+.options-list {
+  list-style: none;
+  padding: 0;
+  width: 600px;
+}
+
+.option {
+  margin: 5px 0;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+  background-color: #fff;
+  transition: background-color 0.3s ease;
+}
+
+.option:hover {
+  background-color: #d9edf7;
+}
+
+.quiz-submitted .option:hover {
+  background-color: #fff; 
+}
+.quiz-submitted .selected-option.correct:hover {
+  background-color: rgb(211, 249, 211); 
+}
+.quiz-submitted .selected-option.incorrect:hover {
+  background-color: #f6d1d5;; 
+}
+.selected-option {
+  background-color: #d9edf7;
+  color: #31708f;
+  border-color: #376b85;
+}
+
+.selected-option.active {
+  background-color: #7feb9d;
+  color: #31708f;
+  border-color: #31708f;
+}
+.selected-option:hover {
+
+  color: black;
+  border-color: #31708f;
+}
+
+.correct {
+  background-color: #d4edda;
+  color: #155724;
+}
+
+.incorrect {
+  background-color: #f8d7da;
+  color: #721c24;
+}
+
+.correct-answer {
+  color: green;
+  font-weight: bold;
+}
+
+.feedback {
+  margin-left: 10px;
+  font-weight: bold;
+}
+
+.correct-feedback {
+  color: green;
+}
+
+.incorrect-feedback {
+  color: red;
+}
+
+
+.submit-button {
+  display: block;
+  margin: 20px auto;
+  font-weight: bold;
+  font-size: 16px;
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  background-color: #0056b3;
+  border-radius: 20px 20px 20px 20px;
+  padding: 10px 20px;
+  color: white;
+}
+
+.submit-button:hover {
+  background-color: #0056b3;
+}
+
+.result {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 1.5rem;
+  color: #333;
+}

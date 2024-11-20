@@ -1,0 +1,52 @@
+[
+  {
+    "question": "1) What is the extension for a C++ source file?",
+    "options": ["a) .c", "b) .cpp", "c) .cc", "d) .hpp"],
+    "answer": "b) .cpp"
+  },
+  {
+    "question": "2) Which keyword is used to define a constant in C++?",
+    "options": ["a) const", "b) define", "c) static", "d) final"],
+    "answer": "a) const"
+  },
+  {
+    "question": "3) Which feature allows functions to have the same name but different parameters in C++?",
+    "options": ["a) Inheritance", "b) Encapsulation", "c) Polymorphism", "d) Function Overloading"],
+    "answer": "d) Function Overloading"
+  },
+  {
+    "question": "4) What is the default access modifier for members in a C++ class?",
+    "options": ["a) public", "b) private", "c) protected", "d) None of the above"],
+    "answer": "b) private"
+  },
+  {
+    "question": "5) What does STL stand for in C++?",
+    "options": ["a) Standard Template Library", "b) Simple Template Library", "c) Structured Template Language", "d) None of the above"],
+    "answer": "a) Standard Template Library"
+  },
+  {
+    "question": "6) Which operator is used to resolve scope in C++?",
+    "options": ["a) ::", "b) .", "c) ->", "d) :"],
+    "answer": "a) ::"
+  },
+  {
+    "question": "7) What is the correct way to allocate memory dynamically in C++?",
+    "options": ["a) malloc()", "b) new", "c) alloc()", "d) dynamic()"],
+    "answer": "b) new"
+  },
+  {
+    "question": "8) Which of the following is a correct way to create an object of a class?",
+    "options": ["a) Class obj;", "b) obj Class;", "c) obj = new Class;", "d) create(Class obj);"],
+    "answer": "a) Class obj;"
+  },
+  {
+    "question": "9) Which C++ feature helps in code reusability?",
+    "options": ["a) Encapsulation", "b) Polymorphism", "c) Inheritance", "d) Abstraction"],
+    "answer": "c) Inheritance"
+  },
+  {
+    "question": "10) What does the keyword 'virtual' signify in C++?",
+    "options": ["a) Dynamic Memory Allocation", "b) Virtual Functions", "c) Inline Functions", "d) Abstract Functions"],
+    "answer": "b) Virtual Functions"
+  }
+]

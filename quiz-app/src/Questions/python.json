@@ -1,0 +1,52 @@
+[
+  {
+    "question": "1) Which keyword is used to define a function in Python?",
+    "options": ["a) function", "b) def", "c) func", "d) define"],
+    "answer": "b) def"
+  },
+  {
+    "question": "2) Which of the following is a mutable data type in Python?",
+    "options": ["a) List", "b) Tuple", "c) String", "d) int"],
+    "answer": "a) List"
+  },
+  {
+    "question": "3) Which operator is used for floor division in Python?",
+    "options": ["a) /", "b) //", "c) %", "d) div"],
+    "answer": "b) //"
+  },
+  {
+    "question": "4) What is the output of 'print(type(5))'?",
+    "options": ["a) <class 'int'>", "b) <class 'float'>", "c) <class 'number'>", "d) int"],
+    "answer": "a) <class 'int'>"
+  },
+  {
+    "question": "5) Which function is used to get the length of a list in Python?",
+    "options": ["a) size()", "b) len()", "c) length()", "d) getLength()"],
+    "answer": "b) len()"
+  },
+  {
+    "question": "6) Which of the following is used to import a module in Python?",
+    "options": ["a) include", "b) require", "c) import", "d) module"],
+    "answer": "c) import"
+  },
+  {
+    "question": "7) How can you concatenate strings in Python?",
+    "options": ["a) Using '+'", "b) Using 'concat()'", "c) Using '&'", "d) Using 'add()'"],
+    "answer": "a) Using '+'"
+  },
+  {
+    "question": "8) Which of the following is used to create an empty dictionary in Python?",
+    "options": ["a) {}", "b) []", "c) ()", "d) None of the above"],
+    "answer": "a) {}"
+  },
+  {
+    "question": "9) Which method is used to remove whitespaces from a string?",
+    "options": ["a) trim()", "b) strip()", "c) remove()", "d) None of the above"],
+    "answer": "b) strip()"
+  },
+  {
+    "question": "10) What is the default data type of input() in Python?",
+    "options": ["a) int", "b) float", "c) str", "d) None"],
+    "answer": "c) str"
+  }
+]
